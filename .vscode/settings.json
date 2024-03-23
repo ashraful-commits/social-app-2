@@ -1,0 +1,12 @@
+{
+  "notebook.formatOnSave.enabled": true,
+  "notebook.formatOnCellExecution": true,
+  "editor.formatOnSave": false,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnType": true,
+  "files.autoSave": "afterDelay",
+  "editor.fontSize": 16,
+  "accessibility.signals.format": {
+    "sound": "always"
+  }
+}
